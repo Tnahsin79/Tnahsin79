@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tnahsin79" alt="tnahsin79" /></a> </p>
 
+- 🌱 I’m currently learning **Information Security**
+
+- 👨‍💻 All of my projects are available at [https://nishant-senpai.netlify.app/](https://nishant-senpai.netlify.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nishant_senpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant_senpai" height="30" width="40" /></a>
