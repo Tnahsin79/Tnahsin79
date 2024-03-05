@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tnahsin79" alt="tnahsin79" /></a> </p>
 
-- 🌱 I’m currently learning **Information Security**
+- 🌱 I’m currently learning and pursuing masters in **Information Security**
 
 - 👨‍💻 All of my projects are available at [https://nishant-senpai.netlify.app/](https://nishant-senpai.netlify.app/)
 
