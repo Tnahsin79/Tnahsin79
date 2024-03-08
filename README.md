@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Sharma</h1>
 <h3 align="center">A passionate and experienced Full Stack developer</h3>
-<h3 align="center">I have worked in MERN stack with additional use of postgreSQL and MS SQL Server</h3>
+<h5 align="center">I have worked in MERN stack with additional use of postgreSQL and MS SQL Server</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tnahsin79&label=Profile%20views&color=0e75b6&style=flat" alt="tnahsin79" /> </p>
 
