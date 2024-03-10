@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishant Sharma</h1>
+<h1 align="center">Hi 👋, My name is Nishant Sharma</h1>
 <h3 align="center">A passionate and experienced Full Stack developer</h3>
 <h5 align="center">I have worked in MERN stack with additional use of postgreSQL and MS SQL Server</h5>
 
