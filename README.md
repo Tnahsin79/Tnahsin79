@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning and pursuing masters in **Information Security**
 
-- 👨‍💻 All of my details are available on my Portfolio :[https://nishant-senpai.netlify.app/](https://nishant-senpai.netlify.app/)
+- 👨‍💻 All of my details are available on my Portfolio : [https://nishant-senpai.netlify.app/](https://nishant-senpai.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
