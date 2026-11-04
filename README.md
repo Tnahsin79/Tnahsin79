@@ -1,27 +1,53 @@
-<h1 align="center">Hi 👋, My name is Nishant Sharma</h1>
-<h3 align="center">A passionate and experienced Full Stack developer</h3>
-<h5 align="center">I have worked in MERN stack with additional use of postgreSQL and MS SQL Server</h5>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tnahsin79&label=Profile%20views&color=0e75b6&style=flat" alt="tnahsin79" /></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nishant+Sharma;Full+Stack+MERN+Developer;M.Sc.+in+Information+Security" alt="Hi, I'm Nishant Sharma — Full Stack MERN Developer" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tnahsin79" alt="tnahsin79" /></a> </p>
-
-- 🌱 I’m currently learning and pursuing masters in **Information Security**
-
-- 👨‍💻 All of my details are available on my Portfolio : [https://nishant-senpai.netlify.app/](https://nishant-senpai.netlify.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nishant_senpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishant_senpai" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nishant-sharma-652813179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishant-sharma-652813179/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/nishant_senpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/nishant_senpai" height="30" width="40" /></a>
+<p>
+  <a href="https://nishant-senpai.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nishant-sharma-652813179/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/nishant_senpai"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+  <a href="https://www.hackerrank.com/profile/nishant_senpai"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=tnahsin79&label=Profile%20views&color=3B82F6&style=flat-square" alt="Profile views" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tnahsin79&show_icons=true&locale=en&layout=compact" alt="tnahsin79" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tnahsin79&show_icons=true&locale=en" alt="tnahsin79" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tnahsin79&" alt="tnahsin79" /></p>
+### 👨‍💻 About me
+
+- 🚀 Full Stack developer with **5+ years** of experience building web apps on the **MERN** stack
+- 🧱 Building backends with **NestJS** and **TypeORM**, on **PostgreSQL** and **MS SQL Server** alongside MongoDB
+- 🎓 Completed a **Master's in Information Security**
+- 📍 Based in **Delhi, India**
+- 🌐 More about me and my work: **[nishant-senpai.netlify.app](https://nishant-senpai.netlify.app/)**
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,nestjs,mongodb,postgres,azure,git,linux,postman,webpack,babel&perline=8" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Node.js, Express, NestJS, MongoDB, PostgreSQL, Azure, Git, Linux, Postman, Webpack, Babel" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MS SQL Server" />
+  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
+</p>
+
+### 📈 GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Tnahsin79&theme=github-dark-blue&hide_border=true&background=0D1117" />
+    <img src="https://streak-stats.demolab.com/?user=Tnahsin79&theme=default&hide_border=true" alt="GitHub contribution streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tnahsin79/Tnahsin79/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Tnahsin79/Tnahsin79/output/snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
